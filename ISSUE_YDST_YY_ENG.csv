@@ -1,4 +1,4 @@
-date,number,place,yellowdust(O/X),avgdust(§¶/§©),avgwindsp(m/s),maxwinsp(m/s),maxwinspdir(deg),maxdir(deg),minview(10m),atmosdiff:+03h,:+06h,:+09h,:+12h,:+15h,:+18h,:+21h,:+24h
+date,number,place,yellowdust(O/X),avgdust,avgwindsp(m/s),maxwinsp(m/s),maxwinspdir(deg),maxdir(deg),minview(10m),atmosdiff:+03h,:+06h,:+09h,:+12h,:+15h,:+18h,:+21h,:+24h
 2019-02-05,93,BukChucheon,X,70,0.7,2.5,20,50,1200,high,high,high,high,high,high,high,high
 2019-02-05,102,BackRyeongdo,X,102,3.9,7.6,200,200,1230,high,high,high,high,high,high,normal,normal
 2019-02-05,104,Bukkangreung,X,,2.2,5.3,160,180,1641,high,high,high,high,high,high,high,normal
